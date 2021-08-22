@@ -1,10 +1,11 @@
-using UnityEngine;
-
 namespace RR.AI.BehaviorTree
 {
     public class BTSequencer : BTComposite
     {
-        public override BTNodeState Tick(GameObject actor, Blackboard blackboard)
+        public BTSequencer(string guid) : base(guid)
+        {}
+
+        public override BTNodeState Tick(UnityEngine.GameObject actor, Blackboard blackboard)
         {
             for (int i = 0; i < _children.Length; i++)
             {
