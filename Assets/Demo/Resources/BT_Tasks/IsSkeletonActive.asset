@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d3ecc56521d35a42934e25cb0f80c6f, type: 3}
+  m_Name: IsSkeletonActive
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 0}
+  _propMap:
+    _entries:
+    - Key: 44c34ebf-7e96-429f-9b3a-d03e3d9ca874
+      Value:
+        ActivatedKey: Has_Activated
