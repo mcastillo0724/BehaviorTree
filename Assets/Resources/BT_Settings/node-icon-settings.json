@@ -2,35 +2,35 @@
     "items": [
         {
             "taskname": "BTGraphRoot",
-            "icon": "Assets/RR_BehaviorTree/Resources/Icons/root.png"
+            "icon": "Icons/BTNode/Control/Root"
         },
         {
             "taskname": "BTGraphSelector",
-            "icon": "Assets/RR_BehaviorTree/Resources/Icons/selector.png"
+            "icon": "Icons/BTNode/Control/Selector"
         },
         {
             "taskname": "BTGraphSequencer",
-            "icon": "Assets/RR_BehaviorTree/Resources/Icons/sequencer.png"
+            "icon": "Icons/BTNode/Control/Sequencer"
         },
         {
             "taskname": "BTDecoFailer",
-            "icon": "Assets/RR_BehaviorTree/Resources/Icons/BTDecoFailer.png"
+            "icon": "Icons/BTNode/Task/BTDecoFailer"
         },
         {
             "taskname": "BTDecoSucceeder",
-            "icon": "Assets/RR_BehaviorTree/Resources/Icons/BTDecoSucceeder.png"
+            "icon": "Icons/BTNode/Task/BTDecoSucceeder"
         },
         {
             "taskname": "BTDecoWithinRange",
-            "icon": "Assets/RR_BehaviorTree/Resources/Icons/BTDecoWithinRange.png"
+            "icon": "Icons/BTNode/Task/BTDecoWithinRange"
         },
         {
             "taskname": "BTTaskLog",
-            "icon": "Assets/RR_BehaviorTree/Resources/Icons/BTTaskLog.png"
+            "icon": "Icons/BTNode/Task/BTTaskLog"
         },
         {
             "taskname": "BTTaskWait",
-            "icon": "Assets/RR_BehaviorTree/Resources/Icons/BTTaskWait.png"
+            "icon": "Icons/BTNode/Task/BTTaskWait"
         }
     ]
 }
